@@ -9,7 +9,7 @@ int main()
 	std::cout << "masukan jumlah bilangan : ";
 
 	std::cin >> a;
-
+	
 	for (i;i<a;i++)
 	{
 		std::cout << "masukan bilangan ke - " << i+1 << ": " ;
