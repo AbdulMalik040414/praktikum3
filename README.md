@@ -8,6 +8,7 @@
 5. mencetak nilai terbesar dari sejumlah variable yang telah di masukan ke dalam variable input tersebut ke layar
 
 berikut kode lengkapnya :
+
 #include <iostream>
 
 int main()
@@ -39,6 +40,7 @@ int main()
 4. mencetak nilai terkecil sampai nilai terbesar secara terurut dari sejumlah variable yang telah di masukan ke dalam variable input tersebut ke layar.
 
 berikut kode lengkapnya :
+
 #include <iostream>
 
 using namespace std;
@@ -90,6 +92,7 @@ int main()
 4. mencetak nilai tengah dari sejumlah variable yang telah di masukan ke dalam variable input tersebut ke layar.
 
 berikut code lengkapnya :
+
 #include <iostream>
 
 using namespace std;
