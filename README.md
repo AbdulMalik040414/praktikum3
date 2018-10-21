@@ -1,6 +1,6 @@
 # praktikum3
 
-##latihan-1 : mencari bilangan terbesar dari sejumlah bilangan
+## latihan-1 : mencari bilangan terbesar dari sejumlah bilangan
 1. mendeklarasikan variable (int) i=0, max=0, a dan x
 2. memasukan jumlah bilangan yang di inginkan 
 3. memasukan bilangan ke dalam sejumlah variable input dengan nilai tertentu menggunakan "for (i;i<a;i++)"
@@ -32,7 +32,7 @@ int main()
 	return 0;
 }
 
-##latihan-2 : mengurutkan bingan dari nilai yang terkecil sampai nilai terbesar
+## latihan-2 : mengurutkan bingan dari nilai yang terkecil sampai nilai terbesar
 1. mendeklarasikan variable a, b dan c
 2. memasukan nilai kedalam variable input (a, b dan c) dengan nilai tertentu
 3. mencari urutan nilai terkecil sampai nilai terbesar dari sejumlah variable menggunakan "if dan else"
@@ -83,7 +83,7 @@ int main()
 	return 0;
 }
 
-##latihan-3 : mencari nilai tengah dari 3 bilangan
+## latihan-3 : mencari nilai tengah dari 3 bilangan
 1. mendeklarasikan variable a, b dan c
 2. memasukan nilai kedalam variable input (a, b dan c) dengan nilai tertentu
 3. mencari nilai tengah dari sejumlah variable yang di inputkan menggunakan "if dan else"
